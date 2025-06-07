@@ -27,8 +27,7 @@ npm install
 To work with mail you need to create .env file and write MAIL_HOST, MAIL_PORT, MAIL_USER and MAIL_PASSWORD. Example:
 
 ```
-MAIL_USER=cooluser
-MAIL_PASSWORD=111111
+MAIL_PASSWORD=5ad5ha1
 ```
 
 ## Run the project
